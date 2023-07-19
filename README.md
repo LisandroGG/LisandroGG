@@ -1,16 +1,34 @@
-### Hi there 👋
+### Hola, soy Lisandro Pereyra👋
+___
+~~~
+💻 Soy Full Stack Developer egresado de Soy Henry!
+😎 Actualmente estoy abierto para: una nueva oportunidad de trabajo
+📝 Me gusta diseñar paginas, me gusta hacer la parte UI/UX
+~~~
+---
 
-<!--
-**LisandroGG/LisandroGG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🤝 Contact with me
 
-Here are some ideas to get you started:
+- [GMAIL](mailto:lisandro.pereyra123456@gmail.com)
+- [LINKEDIN](https://www.linkedin.com/in/lisandro-pereyra-18503626a/)
+- [GITHUB](https://github.com/LisandroGG)
+___
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🖥 Technologies
+
+    - JAVASCRIPT
+    - HTML
+    - CSS
+    - VITE
+    - REACT
+    - REDUX
+    - SQL
+    - EXPRESS
+    - SEQUELIZE
+    - NODEJS
+
+___
+
+### 🤔¿Te quedo alguna duda? 🤔
+
+No dudes en contactar conmigo para hablar y resolver dudas, estoy dispuesto a resolverte cualquier duda existente😉
